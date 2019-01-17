@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "json-schema-view": "../json-schema-view",
     "mobx": "^4.2.0",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
