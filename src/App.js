@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { RedocStandalone as JsonSchemaView } from 'json-schema-view';
+import { RedocStandalone as JsonSchemaView } from 'redoc';
 import './App.css';
 
 const jsonNode = {
